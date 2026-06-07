@@ -47,12 +47,12 @@ Projet de conception d'une plateforme de mise en relation entre entreprises du s
 
 ** Compétences mobilisées :**
 
--Analyse des besoins métier
--Conception de base de données
--Développement Symfony
--Authentification et gestion des rôles
--Tests unitaires et d'intégration
--Déploiement automatisé via GitHub Actions
+- Analyse des besoins métier
+- Conception de base de données
+- Développement Symfony
+- Authentification et gestion des rôles
+- Tests unitaires et d'intégration
+- Déploiement automatisé via GitHub Actions
 
 ---
 
