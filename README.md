@@ -113,7 +113,7 @@ Compétences mobilisées :
 
 ---
 
-## 📫 Me contacter
+<h2 align="center">📫 Me contacter</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Wilfried_Bourrinet-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilbourrinet)
 
