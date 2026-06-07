@@ -41,44 +41,65 @@ Aujourd'hui, je continue de développer mes compétences à travers des projets 
 ![MVC](https://img.shields.io/badge/Architecture-MVC-blue)
 
 ## 📂 Quelques projets
-### CleanConnect
+### 🚀 CleanConnect
 
 Projet de conception d'une plateforme de mise en relation entre entreprises du secteur du nettoyage et travailleurs disponibles pour des missions ponctuelles.
 
-Ce projet m'a permis de travailler sur :
+### Compétences mobilisées :
 
-l'analyse des besoins métier ;
-la conception d'une base de données ;
-le développement d'une application web complète ;
-la gestion des rôles et des permissions ;
-la création d'API et de fonctionnalités métier.
-Sites web clients
+Analyse des besoins métier
+Conception de base de données
+Développement Symfony
+Authentification et gestion des rôles
+Tests unitaires et d'intégration
+Déploiement automatisé via GitHub Actions
 
-Je réalise également la maintenance et les évolutions de plusieurs sites vitrines en production, ce qui me permet d'acquérir une expérience concrète sur :
+### 🏢 Proxi'Clean Services
 
-le suivi client ;
-les mises à jour applicatives ;
-l'hébergement et le déploiement ;
-l'amélioration continue des sites existants.
+Site vitrine développé pour une entreprise de nettoyage.
 
-🌱 Ce qui m'intéresse
-Développement web et applicatif
-Architecture logicielle
-Bases de données
-Expérience utilisateur
-Automatisation et déploiement
-Nouvelles technologies
+Compétences mobilisées :
 
-✨ Mes qualités
-Rigueur
-Curiosité
-Autonomie
-Esprit d'analyse
-Persévérance
-Travail en équipe
+Conception UX/UI
+Développement Astro & Tailwind CSS
+Optimisation SEO
+Hébergement et déploiement
 
-📫 Contact
+### 🩺 Cabinet infirmier Delherm
 
-N'hésitez pas à parcourir mes projets ou à me contacter pour échanger autour du développement web et logiciel.
+Site vitrine professionnel conçu pour présenter l'activité du cabinet et faciliter la prise de contact.
+
+Compétences mobilisées :
+
+Développement front-end
+Responsive design
+Optimisation des performances
+Déploiement
+
+### 💄 Élégance Carmabelor
+
+Site vitrine réalisé pour un salon de beauté.
+
+Compétences mobilisées :
+
+Intégration web
+UX/UI
+SEO
+Mise en production
+
+### ⚛️ Vite Mon Outil
+
+Projet réalisé lors de mon stage de Développeur Web.
+
+Compétences mobilisées :
+
+React
+Firebase
+Refonte de composants
+Optimisation UX/UI
+Correction de bugs
+Migration et sécurisation des données
+
+
 
 
