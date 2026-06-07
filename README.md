@@ -41,7 +41,7 @@ Aujourd'hui, je continue de développer mes compétences à travers des projets 
 ![MVC](https://img.shields.io/badge/Architecture-MVC-blue)
 
 ## 📂 Quelques projets
-CleanConnect
+### CleanConnect
 
 Projet de conception d'une plateforme de mise en relation entre entreprises du secteur du nettoyage et travailleurs disponibles pour des missions ponctuelles.
 
@@ -60,6 +60,7 @@ le suivi client ;
 les mises à jour applicatives ;
 l'hébergement et le déploiement ;
 l'amélioration continue des sites existants.
+
 🌱 Ce qui m'intéresse
 Développement web et applicatif
 Architecture logicielle
@@ -67,6 +68,7 @@ Bases de données
 Expérience utilisateur
 Automatisation et déploiement
 Nouvelles technologies
+
 ✨ Mes qualités
 Rigueur
 Curiosité
@@ -74,6 +76,7 @@ Autonomie
 Esprit d'analyse
 Persévérance
 Travail en équipe
+
 📫 Contact
 
 N'hésitez pas à parcourir mes projets ou à me contacter pour échanger autour du développement web et logiciel.
