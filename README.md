@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Salut, moi c'est Adrar
 
-<!--
-**Wilfried-Bou/Wilfried-Bou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Développeur Full Stack en formation CDA.
 
-Here are some ideas to get you started:
+## 🚀 Projet principal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+CleanConnect
+
+Plateforme de mise en relation entre entreprises de nettoyage et travailleurs disponibles.
+
+## 🛠️ Technologies
+
+- PHP
+- Symfony
+- JavaScript
+- React
+- MySQL
+- Docker
+
+## 📂 Projets à découvrir
+
+- CleanConnect Platform
+- CleanConnect API
+- Symfony Auth
+- React Dashboard
+
+## 📫 Contact
+
+- LinkedIn
+- Email
