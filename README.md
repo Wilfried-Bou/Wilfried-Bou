@@ -67,6 +67,8 @@ Développement Astro & Tailwind CSS
 Optimisation SEO
 Hébergement et déploiement
 
+---
+
 ### 🩺 Cabinet infirmier Delherm
 
 Site vitrine professionnel conçu pour présenter l'activité du cabinet et faciliter la prise de contact.
@@ -78,6 +80,8 @@ Responsive design
 Optimisation des performances
 Déploiement
 
+---
+
 ### 💄 Élégance Carmabelor
 
 Site vitrine réalisé pour un salon de beauté.
@@ -88,6 +92,8 @@ Intégration web
 UX/UI
 SEO
 Mise en production
+
+---
 
 ### ⚛️ Vite Mon Outil
 
@@ -102,6 +108,4 @@ Optimisation UX/UI
 Correction de bugs
 Migration et sécurisation des données
 
-
-
-
+---
