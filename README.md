@@ -9,6 +9,7 @@ Après plusieurs années d'expérience professionnelle dans la restauration et d
 Aujourd'hui, je continue de développer mes compétences à travers des projets personnels, de la veille technologique et la maintenance de sites web pour différents clients.
 
 <h2 align="center">💻 Compétences techniques</h2>
+
 ### Front-end
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
@@ -42,6 +43,7 @@ Aujourd'hui, je continue de développer mes compétences à travers des projets 
 ![MVC](https://img.shields.io/badge/Architecture-MVC-blue)
 
 <h2 align="center">📂 Projets & Réalisations</h2>
+
 ### 🚀 CleanConnect
 
 Projet de conception d'une plateforme de mise en relation entre entreprises du secteur du nettoyage et travailleurs disponibles pour des missions ponctuelles.
