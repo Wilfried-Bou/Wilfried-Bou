@@ -8,9 +8,10 @@ Après plusieurs années d'expérience professionnelle dans la restauration et d
 
 Aujourd'hui, je continue de développer mes compétences à travers des projets personnels, de la veille technologique et la maintenance de sites web pour différents clients.
 
+
 <h2 align="center">💻 Compétences techniques</h2>
 
-### Front-end
+### Front-end :
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
@@ -22,7 +23,7 @@ Aujourd'hui, je continue de développer mes compétences à travers des projets 
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
 
-### Back-end
+### Back-end :
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?logo=symfony&logoColor=white)
@@ -33,7 +34,7 @@ Aujourd'hui, je continue de développer mes compétences à travers des projets 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white%22/%3E)
 ![REST_API](https://img.shields.io/badge/REST_API-02569B?logo=fastapi&logoColor=white)
 
-### Outils
+### Outils :
 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
@@ -41,6 +42,21 @@ Aujourd'hui, je continue de développer mes compétences à travers des projets 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 ![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
 ![MVC](https://img.shields.io/badge/Architecture-MVC-blue)
+
+
+<h2 align="center">🤝 Soft Skills</h2>
+
+
+- 🧠 Esprit d'analyse
+- 🎯 Sens des responsabilités
+- 🔄 Capacité d'adaptation
+- 🤝 Travail en équipe
+- 💬 Aisance relationnelle
+- 🚀 Force de proposition
+- 📚 Curiosité et apprentissage continu
+- 📋 Organisation et rigueur
+
+---
 
 <h2 align="center">📂 Projets & Réalisations</h2>
 
@@ -120,7 +136,7 @@ Compétences mobilisées :
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
   </a>
   
-  <a href="mailto:wilfried.bourrinet@gmail.com">
+  <a href="mailto:wilbou.adrar@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
 </p>
