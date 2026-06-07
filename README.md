@@ -1,6 +1,6 @@
 # 👋 Salut, moi c'est Wilfried
 
-## 🚀 À propos de moi
+<h2 align="center">🚀 À propos de moi</h2>
 
 Développeur web diplômé, passionné par la création d'applications et de sites web utiles, performants et maintenables.
 
@@ -8,11 +8,12 @@ Après plusieurs années d'expérience professionnelle dans la restauration et d
 
 Aujourd'hui, je continue de développer mes compétences à travers des projets personnels, de la veille technologique et la maintenance de sites web pour différents clients.
 
-## 💻 Compétences techniques
+<h2 align="center">💻 Compétences techniques</h2>
 ### Front-end
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![Tailwindcss](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?logo=vuedotjs&logoColor=white)
@@ -62,10 +63,10 @@ Site vitrine développé pour une entreprise de nettoyage.
 
 Compétences mobilisées :
 
-Conception UX/UI
-Développement Astro & Tailwind CSS
-Optimisation SEO
-Hébergement et déploiement
+- Conception UX/UI
+- Développement Astro & Tailwind CSS
+- Optimisation SEO
+- Hébergement et déploiement
 
 ---
 
@@ -75,10 +76,10 @@ Site vitrine professionnel conçu pour présenter l'activité du cabinet et faci
 
 Compétences mobilisées :
 
-Développement front-end
-Responsive design
-Optimisation des performances
-Déploiement
+- Développement front-end
+- Responsive design
+- Optimisation des performances
+- Déploiement
 
 ---
 
@@ -88,10 +89,10 @@ Site vitrine réalisé pour un salon de beauté.
 
 Compétences mobilisées :
 
-Intégration web
-UX/UI
-SEO
-Mise en production
+- Intégration web
+- UX/UI
+- SEO
+- Mise en production
 
 ---
 
@@ -102,10 +103,10 @@ Projet réalisé lors de mon stage de Développeur Web.
 Compétences mobilisées :
 
 - React
-Firebase
-Refonte de composants
-Optimisation UX/UI
-Correction de bugs
-Migration et sécurisation des données
+- Firebase
+- Refonte de composants
+- Optimisation UX/UI
+- Correction de bugs
+- Migration et sécurisation des données
 
 ---
