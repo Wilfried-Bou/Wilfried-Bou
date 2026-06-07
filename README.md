@@ -16,7 +16,8 @@ Aujourd'hui, je continue de développer mes compétences à travers des projets 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?logo=vuedotjs&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Vue-4FC08D?logo=vuedotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=fff)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
 
 ### Back-end
@@ -27,7 +28,7 @@ Aujourd'hui, je continue de développer mes compétences à travers des projets 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?logo=firebase&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white%22/%3E)
 ![REST_API](https://img.shields.io/badge/REST_API-02569B?logo=fastapi&logoColor=white)
 
 ### Outils
