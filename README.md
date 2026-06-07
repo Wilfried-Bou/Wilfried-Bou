@@ -54,6 +54,8 @@ Authentification et gestion des rôles
 Tests unitaires et d'intégration
 Déploiement automatisé via GitHub Actions
 
+---
+
 ### 🏢 Proxi'Clean Services
 
 Site vitrine développé pour une entreprise de nettoyage.
