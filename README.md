@@ -40,19 +40,19 @@ Aujourd'hui, je continue de développer mes compétences à travers des projets 
 ![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
 ![MVC](https://img.shields.io/badge/Architecture-MVC-blue)
 
-## 📂 Quelques projets
+<h2 align="center">📂 Projets & Réalisations</h2>
 ### 🚀 CleanConnect
 
 Projet de conception d'une plateforme de mise en relation entre entreprises du secteur du nettoyage et travailleurs disponibles pour des missions ponctuelles.
 
 ### Compétences mobilisées :
 
-Analyse des besoins métier
-Conception de base de données
-Développement Symfony
-Authentification et gestion des rôles
-Tests unitaires et d'intégration
-Déploiement automatisé via GitHub Actions
+-Analyse des besoins métier
+-Conception de base de données
+-Développement Symfony
+-Authentification et gestion des rôles
+-Tests unitaires et d'intégration
+-Déploiement automatisé via GitHub Actions
 
 ---
 
@@ -101,7 +101,7 @@ Projet réalisé lors de mon stage de Développeur Web.
 
 Compétences mobilisées :
 
-React
+- React
 Firebase
 Refonte de composants
 Optimisation UX/UI
