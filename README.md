@@ -16,8 +16,8 @@ Aujourd'hui, je continue de développer mes compétences à travers des projets 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?logo=vuedotjs&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Vue-4FC08D?logo=vuedotjs&logoColor=white)
-![Astro](https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=fff)
+![Nuxt](https://img.shields.io/badge/Nuxt-020420?logo=nuxt)
+![Astro](https://img.shields.io/badge/Astro.js-00DC82?logo=nuxtdotjs&logoColor=fff)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
 
 ### Back-end
