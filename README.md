@@ -27,7 +27,7 @@ Aujourd'hui, je continue de développer mes compétences à travers des projets 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?logo=firebase&logoColor=black)
 ![REST_API](https://img.shields.io/badge/REST_API-02569B?logo=fastapi&logoColor=white)
 
 ### Outils
