@@ -20,21 +20,23 @@ Aujourd'hui, je continue de développer mes compétences à travers des projets 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
 
 ### Back-end
-PHP
-Symfony
-Java
-Spring Boot
-Node.js
-MySQL
-API REST
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?logo=symfony&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![REST_API](https://img.shields.io/badge/REST_API-02569B?logo=fastapi&logoColor=white)
 
 ### Outils
-Git
-GitHub
-Docker
-Figma
-VS Code
-Architectures MVC
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
+![MVC](https://img.shields.io/badge/Architecture-MVC-blue)
 
 ## 📂 Quelques projets
 CleanConnect
