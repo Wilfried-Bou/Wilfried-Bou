@@ -45,7 +45,7 @@ Aujourd'hui, je continue de développer mes compétences à travers des projets 
 
 Projet de conception d'une plateforme de mise en relation entre entreprises du secteur du nettoyage et travailleurs disponibles pour des missions ponctuelles.
 
-### Compétences mobilisées :
+** Compétences mobilisées :**
 
 -Analyse des besoins métier
 -Conception de base de données
