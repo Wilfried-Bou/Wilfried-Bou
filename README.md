@@ -112,3 +112,9 @@ Compétences mobilisées :
 - Migration et sécurisation des données
 
 ---
+
+## 📫 Me contacter
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wilfried_Bourrinet-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilbourrinet)
+
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white)](mailto:wilfried.bourrinet@gmail.com)
