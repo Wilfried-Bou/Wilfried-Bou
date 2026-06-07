@@ -1,6 +1,6 @@
 # 👋 Salut, moi c'est Wilfried
 
-🚀 À propos de moi
+## 🚀 À propos de moi
 
 Après plusieurs années d'expérience professionnelle dans d'autres domaines, j'ai choisi de me reconvertir dans le développement web et logiciel, un univers qui me passionne pour sa dimension créative, technique et sa capacité à résoudre des problèmes concrets.
 
